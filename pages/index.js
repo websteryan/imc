@@ -55,6 +55,7 @@ export default function Home() {
       <Head>
       <title>Calculadora IMC</title>
       <link rel="icon" href="/icon.ico" />
+      <script data-ad-client="ca-pub-1471663505328864" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       </Head>
 
       <main>
