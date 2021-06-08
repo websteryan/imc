@@ -16,6 +16,6 @@ https://calc-imc.vercel.app/
 
   
 
-## Author
+## Authors
 
 [@ryanwebstert](https://www.github.com/ryanwebstert)
