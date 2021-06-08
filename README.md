@@ -1,1 +1,21 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+# IMC
+
+Calculadora IMC feita em Next.js
+
+
+    
+
+  
+
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png)
+## Demo
+
+https://calc-imc.vercel.app/
+
+  
+
+## Author
+
+[@ryanwebstert](https://www.github.com/ryanwebstert)
